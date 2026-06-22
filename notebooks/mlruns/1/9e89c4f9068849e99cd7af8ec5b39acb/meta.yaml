@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/gh-yield/notebooks/mlruns/1/9e89c4f9068849e99cd7af8ec5b39acb/artifacts
+end_time: 1782138804179
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9e89c4f9068849e99cd7af8ec5b39acb
+run_uuid: 9e89c4f9068849e99cd7af8ec5b39acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782138804118
+status: 3
+tags: []
+user_id: user

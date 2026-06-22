@@ -5,19 +5,28 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "arch>=8.0.0",
     "beautifulsoup4>=4.15.0",
     "fredapi>=0.5.2",
     "html5lib>=1.1",
     "jupyter>=1.1.1",
+    "lightgbm>=4.6.0",
     "lxml>=6.1.1",
     "matplotlib>=3.11.0",
+    "mlflow>=1.27.0",
     "notebook>=7.5.7",
     "numpy>=2.4.6",
+    "optuna>=4.9.0",
     "pandas>=3.0.3",
     "pdfplumber>=0.11.10",
+    "prophet>=1.3.0",
+    "protobuf<5",
     "requests>=2.34.2",
     "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
+    "setuptools>=70.0,<80.0",
+    "statsmodels>=0.14.6",
     "wbgapi>=1.0.14",
+    "xgboost>=3.3.0",
     "yfinance>=1.4.1",
 ]
